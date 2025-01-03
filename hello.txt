@@ -1,1 +1,17 @@
-Hello test
+Create repositorio: 
+ 1. Criar diretório
+ 2. Entrar no diretório
+ 3. Inicializar o diretório: git init
+
+ 4. Criar arquivos no diretório
+ 5. Adicionar os arquivos do diretório no git: git add 'nome-do-arquivo'
+ 6. Commit o arquivo ao repositório: git commit -m "Mensagem que deseja gravar no commit"
+
+ 7. Criar um novo repositório no GitHub
+ 8. Copie o 'link' do repositório criado no GitHub
+ 9. Link o repositório Git com o GitHub: git remote origin add 'link'  
+ 
+ Atualizar arquivos no GitHub: 
+   Commit: git commit -m "Mensagem" 
+   Push:   git push origin master
+
